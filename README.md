@@ -1,0 +1,2 @@
+# TyC
+Términos y Condiciones
